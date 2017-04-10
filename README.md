@@ -1,27 +1,5 @@
 Citation from: https://github.com/warp1337/ros_aruco
 
-![ArUco ROS Marker Tracking](https://raw.github.com/warp1337/ros_aruco/master/data/ros_aruco.jpg "ROS ArUco")
-
-WHY
-====
-
-This is a ros package wrapping the lightweight and fast ArUco[1] marker 
-tracking library. The usage of this package is, on purpose, straight forward 
-and the features are simple/limited. This software tracks a single marker and 
-publishes its ROTATION and TRANSLATION coordinates via ROS middleware (TF and Pose). 
-The main advantages of this package are a) publishing of "real world" coordinates, 
-i.e., distance in metres b) high frequency data streaming of coodinates, the 
-bottleneck currently is the FPS count of your camera. Marker detection and 
-tracking only consumes ~5ms per frame [intel i5] and c) easy deployment, if 
-you are already using ROS.
-
-An extension including detection and tracking of multiple markers should be an 
-relatively easy task. Feel free to fork me.
-
-[1] http://www.uco.es/investiga/grupos/ava/node/26
-
-BUILDING AND USAGE
-==================
 
 1) Install ROS, if neccessary.
 http://wiki.ros.org/ROS/Installation
