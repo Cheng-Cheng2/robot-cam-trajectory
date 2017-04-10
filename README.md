@@ -1,3 +1,5 @@
+Citation from: https://github.com/warp1337/ros_aruco
+
 ![ArUco ROS Marker Tracking](https://raw.github.com/warp1337/ros_aruco/master/data/ros_aruco.jpg "ROS ArUco")
 
 WHY
