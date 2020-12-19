@@ -1,5 +1,5 @@
 # Robot trajectory tracking using webcam 
-This project seeks to track the trajectory of a moving robot by using a webcam to scan markers placed in the environment. 
+This is the capstone project for cs401. We seek to track the trajectory of a moving robot by using a webcam to scan markers placed in the environment. 
 
 We extended the code by (https://github.com/warp1337/ros_aruco)
 
