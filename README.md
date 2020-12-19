@@ -1,4 +1,4 @@
-Citation from: https://github.com/warp1337/ros_aruco
+We extended the code by (https://github.com/warp1337/ros_aruco)
 
 
 1) Install ROS, if neccessary.
